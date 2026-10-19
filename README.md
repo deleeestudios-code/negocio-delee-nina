@@ -3,5 +3,5 @@
 - **Apellidos:** Nina Condori
 - **Nombres:** Delee Wilson
 - **Paralelo:** B
-- **CI:** [Escribe aquí tu CI]
+- **CI:** 13492307
 - **Fecha:** 18 de Octubre de 2026
